@@ -18,14 +18,15 @@
 - [Portugol](https://dashboard.snapcraft.io/site_media/appmedia/2019/12/visualg.png)<br/>
 
 # :mortar_board: Cursos Feitos
-- [Curso de Algoritmos](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) - Prof. Gustavo Guanabra
+- [Curso de Algoritmos](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) - Prof. Gustavo Guanabra<br/>
+- [Curso de Git e GitHub](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA) - Prof. Gustavo Guanabara<br/>
 
 # :books:Livros Lidos
-- [Código limpo: Habilidades práticas do Agile Software](https://amzn.to/3hWYPDH) - Robert C. Martin (Autor)
+- [Código limpo: Habilidades práticas do Agile Software](https://amzn.to/3hWYPDH) - Robert C. Martin (Autor)<br/>
 
 # :computer: Tecnologias utilizadas
 
-[VisuAlg](https://visualg3.com.br/)
+[VisuAlg](https://visualg3.com.br/)<br/>
 
 <!--
 **ArgemiroC/ArgemiroC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
