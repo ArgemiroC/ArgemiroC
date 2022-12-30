@@ -17,6 +17,12 @@
 # :capital_abcd: Linguagem estudada
 - [Portugol](https://dashboard.snapcraft.io/site_media/appmedia/2019/12/visualg.png)<br/>
 
+# :mortar_board: Cursos Feitos
+- [Curso de Algoritmos](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) - Prof. Gustavo Guanabra
+
+# :books:Livros Lidos
+- [Código limpo: Habilidades práticas do Agile Software](https://amzn.to/3hWYPDH) - Robert C. Martin (Autor)
+
 # :computer: Tecnologias utilizadas
 
 [VisuAlg](https://visualg3.com.br/)
