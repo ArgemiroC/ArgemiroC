@@ -31,7 +31,7 @@
 
 [VisuAlg](https://visualg3.com.br/)<br/>
 [Visual Studio Code](https://code.visualstudio.com/)<br/>
-[GitHubDeskTop](https://desktop.github.com/)<br/>
+[GitHubDesktop](https://desktop.github.com/)<br/>
 
 <!--
 **ArgemiroC/ArgemiroC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
