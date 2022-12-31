@@ -12,14 +12,17 @@
 
 ### Olá, Meu Nome é Argemiro Correia 👋
 
-- :computer: Atualmente estudando Lógica de Programação
+- :computer: Atualmente estudando HTML5 e CSS3
 
 # :capital_abcd: Linguagem estudada
 - [Portugol](https://dashboard.snapcraft.io/site_media/appmedia/2019/12/visualg.png)<br/>
+- [HTML5](https://www.hostinger.com.br/tutoriais/diferenca-entre-html-e-html5)<br/>
+- [CSS3](https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css)<br/>
 
 # :mortar_board: Cursos Feitos
 - [Curso de Algoritmos](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) - Prof. Gustavo Guanabra<br/>
 - [Curso de Git e GitHub](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA) - Prof. Gustavo Guanabara<br/>
+- [Curso completo e atual de HTML5 e CSS3](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) - Prof Gustavo Guanabara (Fazendo)
 
 # :books:Livros Lidos
 - [Código limpo: Habilidades práticas do Agile Software](https://amzn.to/3hWYPDH) - Robert C. Martin (Autor)<br/>
@@ -27,6 +30,8 @@
 # :computer: Tecnologias utilizadas
 
 [VisuAlg](https://visualg3.com.br/)<br/>
+[Visual Studio Code](https://code.visualstudio.com/)<br/>
+[GitHubDeskTop](https://desktop.github.com/)<br/>
 
 <!--
 **ArgemiroC/ArgemiroC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
