@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/120411469/210063345-42a654ea-d6d1-40e8-bf70-cf79849b5f24.png)
+![image](https://images.pexels.com/photos/270360/pexels-photo-270360.jpeg)
 
 <div align="center">
    <a href="https://www.youtube.com/channel/UC5ppP6bCt-2JGMh3nTs37kQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
